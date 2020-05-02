@@ -1,0 +1,47 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Material__49
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.374345 0.374345 0.374345
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/taeyoonkim/[자료]/[KAIST work]/2019_1_Spring/Computer Graphics/Pokemon XY/Bayleef/images/pm0153_00_BodyA1.png
+
+newmtl Material__50
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.374345 0.374345 0.374345
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/taeyoonkim/[자료]/[KAIST work]/2019_1_Spring/Computer Graphics/Pokemon XY/Bayleef/images/pm0153_00_Eye1.png
+
+newmtl Material__51
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.374345 0.374345 0.374345
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd /Users/taeyoonkim/[자료]/[KAIST work]/2019_1_Spring/Computer Graphics/Pokemon XY/Bayleef/images/pm0153_00_BodyB1.png
+
+newmtl Material__52
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.374345 0.374345 0.374345
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 0.000000
+illum 2
+map_Kd /Users/taeyoonkim/[자료]/[KAIST work]/2019_1_Spring/Computer Graphics/Pokemon XY/Bayleef/images/pm0153_00_Iris1.png
+map_d /Users/taeyoonkim/[자료]/[KAIST work]/2019_1_Spring/Computer Graphics/Pokemon XY/Bayleef/images/pm0153_00_Iris1.png
